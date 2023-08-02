@@ -1,0 +1,82 @@
+{
+    "careers":[
+        {
+            "id": 1,
+            "title": "Senior React Developer",
+            "salary": 5000,
+            "location": "london, UK"
+        },
+        {
+            "id": 2,
+            "title": "Plumber",
+            "salary": 4000,
+            "location": "Bowesers castle"
+        },
+        {
+            "id": 3,
+            "title": "Gym leader",
+            "salary": 75000,
+            "location": "Russia"
+        },
+        {
+            "id": 4,
+            "title": "Vue Developer",
+            "salary": 8000,
+            "location": "kanto Reign"
+        },
+        {
+            "id": 5,
+            "title": "website Developer",
+            "salary": 5000,
+            "location": "America"
+        },
+        {
+            "id": 6,
+            "title": "food taster",
+            "salary": 30000,
+            "location": "London, UK"
+        },
+        {
+            "id": 1,
+            "title": "Senior React Developer",
+            "salary": 5000,
+            "location": "london, UK"
+        },
+        {
+            "id": 2,
+            "title": "Plumber",
+            "salary": 4000,
+            "location": "Bowesers castle"
+        },
+        {
+            "id": 3,
+            "title": "Gym leader",
+            "salary": 75000,
+            "location": "Russia"
+        },
+        {
+            "id": 4,
+            "title": "Vue Developer",
+            "salary": 8000,
+            "location": "kanto Reign"
+        },
+        {
+            "id": 5,
+            "title": "website Developer",
+            "salary": 5000,
+            "location": "America"
+        },
+        {
+            "id": 6,
+            "title": "food taster",
+            "salary": 30000,
+            "location": "London, UK"
+        },
+        {
+            "id": 7,
+            "title": "Front end Developer",
+            "salary": 5000,
+            "location": "America"
+        }
+    ]
+}

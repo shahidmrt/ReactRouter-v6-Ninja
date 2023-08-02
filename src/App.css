@@ -1,0 +1,31 @@
+body{
+    background-color: #170840;
+}
+header nav a.active{
+    background-color: purple;
+}
+.help-btn a.active{
+    background-color: purple;
+}
+
+/* career page */
+.career > a:hover p{
+   color:orangered;
+}
+
+.career > a p:last-child{
+   font-size: 14px;
+   color: rgb(203, 201, 201);
+}
+/* breadcrumb Page  */
+.braedcrumbs > *{
+    display: inline-block;
+    margin-right: 10px;
+}
+.braedcrumbs  .crumb:after{
+    content: '>';
+    margin-left: 10px;
+}
+.braedcrumbs  .crumb:last-child:after{
+    display: none;
+}
